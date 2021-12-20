@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз по этажам.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз_по_этажам.Form1.resources
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз_по_этажам.Properties.Resources.resources
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз по этажам.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз по этажам.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\bin\Debug\груз по этажам.exe.config
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\bin\Debug\груз по этажам.exe
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\bin\Debug\груз по этажам.pdb
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз по этажам.exe
+C:\Users\acer\source\repos\груз по этажам\груз по этажам\obj\Debug\груз по этажам.pdb
