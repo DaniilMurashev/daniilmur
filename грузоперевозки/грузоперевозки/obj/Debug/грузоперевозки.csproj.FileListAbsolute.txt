@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\bin\Debug\грузоперевозки.exe.config
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\bin\Debug\грузоперевозки.exe
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\bin\Debug\грузоперевозки.pdb
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.Form1.resources
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.Properties.Resources.resources
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.exe
+C:\Users\acer\source\repos\грузоперевозки\грузоперевозки\obj\Debug\грузоперевозки.pdb
