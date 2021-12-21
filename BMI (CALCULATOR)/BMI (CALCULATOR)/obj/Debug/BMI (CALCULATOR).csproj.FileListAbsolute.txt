@@ -1,0 +1,21 @@
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\bin\Debug\BMI (CALCULATOR).exe.config
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\bin\Debug\BMI (CALCULATOR).exe
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\bin\Debug\BMI (CALCULATOR).pdb
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csproj.AssemblyReference.cache
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csproj.SuggestedBindingRedirects.cache
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI__CALCULATOR_.Form1.resources
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI__CALCULATOR_.Properties.Resources.resources
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csproj.GenerateResource.cache
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csproj.CoreCompileInputs.cache
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).exe
+C:\Users\ko72x\source\repos\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).pdb
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\bin\Debug\BMI (CALCULATOR).exe.config
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\bin\Debug\BMI (CALCULATOR).exe
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\bin\Debug\BMI (CALCULATOR).pdb
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csprojAssemblyReference.cache
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI__CALCULATOR_.Form1.resources
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI__CALCULATOR_.Properties.Resources.resources
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csproj.GenerateResource.cache
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).exe
+C:\Users\student\Downloads\Project-main\Project-main\BMI (CALCULATOR)\BMI (CALCULATOR)\BMI (CALCULATOR)\obj\Debug\BMI (CALCULATOR).pdb
